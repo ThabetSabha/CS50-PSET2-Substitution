@@ -1,6 +1,6 @@
 # CS50-PSET2-Substitution
 
-Part of Problem Set 2 of CS50: Introduction to Computer Science  (https://www.edx.org/course/cs50s-introduction-to-computer-science).
+My solution for Problem Set 2 of CS50: Introduction to Computer Science  (https://www.edx.org/course/cs50s-introduction-to-computer-science).
 
 a basic C program that encrypts messages using a substitution cipher, per the below.
 
